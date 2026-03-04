@@ -1,19 +1,14 @@
 {
-  "name": "[internal-mod-name]",
-  "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
-  "factorio_version": "2.0",
-  "dependencies": [
-    "base"
-  ],
-  "quality_required": false,
-  "rail_bridges_required": false,
-  "space_travel_required": false,
-  "spoiling_required": false,
-  "freezing_required": false,
-  "segmented_units_required": false,
-  "expansion_shaders_required": false
+	"name": "lane-balancers-expansion",
+	"version": "1.0.0",
+	"title": "Lane Balancers Expansion",
+	"author": "NullCascade",
+	"description": "An expansion to Quezler's Lane Balancers. Adds support to other mods.",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base",
+		"lane-balancers",
+		"? lignumis",
+		"? planetaris-arig"
+	]
 }
