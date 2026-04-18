@@ -1,6 +1,6 @@
 {
 	"name": "lane-balancers-expansion",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"title": "Lane Balancers Expansion",
 	"author": "NullCascade",
 	"description": "An expansion to Quezler's Lane Balancers. Adds support to other mods.",
@@ -9,6 +9,7 @@
 		"base",
 		"lane-balancers",
 		"? lignumis",
-		"? planetaris-arig"
+		"? planetaris-arig",
+		"? planetaris-hyarion"
 	]
 }

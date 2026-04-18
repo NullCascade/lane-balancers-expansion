@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2026-04-17
+  Bugfixes:
+    - Fixed incorrect icon being used for the hyper balancer's recipe.
+    - Fixed incorrect crafting conditions for the hyper balancer with Hyarion installed.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-03-03
   Features:
